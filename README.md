@@ -1,6 +1,6 @@
-# Mock Access Logs
+# Web Server Mock Data
 
-This is a repository to store mock web server logs such as those that might be found on Apache2, NGINX, Caddy, and Zentinel.
+This is a repository to store mock web server logs data such as those that might be created by production instances of Apache2, NGINX, Caddy, and Zentinel.
 
 I am creating this for development and testing purposes for my [LogReview](https://github.com/TechnologyClassroom/LogReview) and [logreview-rs](https://github.com/TechnologyClassroom/logreview-rs) repositories.
 
